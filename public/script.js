@@ -34,23 +34,23 @@ const translations = {
     ,
     work: {
       h2: "Projetos",
-      h3: "Sistema de Suporte Técnico",
-      p: "Aplicativo para registro de chamados e acompanhamento do suporte em tempo real.",
+      h3: "Produtos para Pronta Entrega.",
+      p: "Navegue pelo catálogo, verifique disponibilidade e envie seu pedido pelo WhatsApp. Retirada e delivery.",
       a: "Ver Projeto"
     },
 
-    work2: {
-      h3: "Site Institucional.",
-      p: "Site responsivo para pequena empresa de tecnologia. Desenvolvido com HTML, CSS e JS.",
-      a: "Ver Projeto"
-    },
+  //  work2: {
+   //   h3: "Site Institucional.",
+  //    p: "Site responsivo para pequena empresa de tecnologia. Desenvolvido com HTML, CSS e JS.",
+  //    a: "Ver Projeto"
+  //  },
 
     contact: {
       h2: "Contatos",
       p1: "Vamos conversar sobre oportunidades, ideias ou projetos?",
       p2: "Email: luandb90@gmail.com",
       p3: "Telefone: +55 (11) 94457-4807",
-      p4: "LinkedIn: luan-dias-brito",
+      p4: "LinkedIn:",
     },
     // Adicione mais traduções aqui conforme precisar
   },
@@ -76,7 +76,7 @@ const translations = {
       technologies: "Technologies",
       soft: "Soft Skills",
       tools: "Tools",
-      liCloud: "Cloud (basico)",
+      liCloud: "Cloud (basic)",
       liProa: "Proactivity",
       liTeam: "Teamwork",
       liCommun: "Communication",
@@ -85,23 +85,23 @@ const translations = {
 
     work: {
       h2: "Work",
-      h3: "Technical Support System.",
-      p: "Responsive website for a small technology company. Developed with HTML, CSS, and JS.",
+      h3: "Products for Immediate Delivery.",
+      p: "Browse the catalog, check availability, and send your order via WhatsApp. Pickup and delivery.",
       a: "View Project"
     },
 
-    work2: {
-      h3: "Institutional Website.",
-      p: "Application for logging tickets and tracking support in real time.",
-      a: "View Project"
-    },
+   // work2: {
+   //   h3: "Institutional Website.",
+   //   p: "Application for logging tickets and tracking support in real time.",
+   //   a: "View Project"
+   // },
 
     contact: {
       h2: "Contact",
       p1: "Shall we talk about opportunities, ideas, or projects?",
       p2: "Email: luandb90@gmail.com",
       p3: "Telephone: +55 (11) 94457-4807",
-      p4: "LinkedIn: luan-dias-brito",
+      p4: "LinkedIn: www.linkedin.com/in/luan-dias90"
     },
   }
 };
